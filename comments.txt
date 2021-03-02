@@ -1,0 +1,5 @@
+Question 2
+You should have directly compared the knightAttack and dragonDefense variables.
+
+Question 3
+You should have taken the length of myPassword to see if it was greater than 8.
